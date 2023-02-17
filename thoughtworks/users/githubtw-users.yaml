@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hariprasadr-tw
+  profile:
+    displayName: Hariprasad Workday
+    email: hp@workday.com
+    picture: 
+spec:
+  memberOf: [thoughtworks, awesome-pet]
